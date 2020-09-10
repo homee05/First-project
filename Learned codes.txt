@@ -1,0 +1,55 @@
+CODES HTML
+<!doctype html> - to make the file as html
+<meta charset="utf-8"> set the code readable for machines
+<html> to run html codes
+<!--comment tag-->
+
+TEXT FORMAT
+<head> top part usually used for titles
+<title> name of the page
+<body> body part of webpage
+<br> - for spacing
+<h1> header
+<b> bold
+<i> italic
+<aside> - side topic
+<blockquote> align the text like a quote
+<pre> - text have spaces
+
+LIST
+<ul> unordered list (bullets)
+<ol> ordered list (numbers)
+<li> -arrange list vertically
+style="list-style:none" - remove list character. 
+list-style-type:upper-alpha; -circle(for ul) -image:url("name of image");
+
+INSERT IMAGES
+<img src="folder/imagename" width="300" height="300" alt="description of image">
+
+CSS BASICS
+}{ - to indicate a style specificaly 
+<styles>
+style="text-align:center;" - alignment of the text (justify-paragraph align)
+style="font-size:large;" 24px-best to use pixels
+style="font-family:arial;"
+style="color:green;" (#ff0000) (#7a7a7a) (#00f) for newer browsers (rgb(256,0,0)) 
+
+GROUPINGS
+class="name of a text group" use . for class name
+id="name of a text group" use # for id name
+<span> doesn't do anything. can add attributes. use to group text
+<div>  use to group text. can isolate a tag in a group.
+<section>, <article> for grouping
+<p> paragraph
+
+how to make style sheet
+<link href="name of file" rel="stylesheet" type="text/css"/>
+
+LINKS
+<a href="link of html"> to link pages
+<a href="#sample1"> id="sample1" linking page to id
+../ - to go back each folder
+
+
+
+
